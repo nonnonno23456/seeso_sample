@@ -132,3 +132,6 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 fabric.properties
+
+# OpenCV 전체 소스 및 바이너리 제외
+opencv/
